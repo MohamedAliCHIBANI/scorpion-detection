@@ -3,5 +3,8 @@ uvicorn[standard]
 numpy
 opencv-python-headless
 ultralytics
-torch==2.1.2 -f https://download.pytorch.org/whl/cpu/torch_stable.html
-torchvision==0.16.0 -f https://download.pytorch.org/whl/cpu/torch_stable.html
+python-multipart==0.0.6
+python-dotenv==1.0.0
+Pillow==10.0.1
+torch==2.1.0
+torchvision==0.16.0
